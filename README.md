@@ -9,4 +9,4 @@ Anggota Kelompok :
 1. Topik : Multiple Linear Regression (Estimasi)
 2. Tujuan : Melakukan prediksi terhadap hasil penjualan paling optimal menggunakan metode estimasi multiple linear regression
 3. Dataset : Data Penjualan
-Sumber Data : https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan
+4. Sumber Data : https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan
